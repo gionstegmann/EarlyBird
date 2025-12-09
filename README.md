@@ -6,6 +6,8 @@
 **EarlyBird** is a **Social Alarm App** that turns waking up into a communal win. 
 The core loop is simple: Commit to a wake time, and you have a 15-minute window to post a selfie to "unlock" your day and keep your streak.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_x7alojx7alojx7al" src="https://github.com/user-attachments/assets/eb4f2b5f-c1e5-4089-87c9-75733113f0e2" />
+
 ---
 
 ## 🛠 Tech Stack
