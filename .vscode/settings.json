@@ -1,0 +1,9 @@
+{
+    "css.validate": false,
+    "scss.validate": false,
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "css.lint.unknownAtRules": "ignore",
+    "scss.lint.unknownAtRules": "ignore"
+}
